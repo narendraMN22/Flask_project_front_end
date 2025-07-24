@@ -1,0 +1,2 @@
+# Flask_project_front_end
+Flask_only_frontend
